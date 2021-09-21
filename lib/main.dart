@@ -43,7 +43,6 @@ void main() async {
     SystemUiOverlayStyle(
       statusBarColor: statusBarColor,
     ),
-
   );
   runApp(
     MaterialApp(
